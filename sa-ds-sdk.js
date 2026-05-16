@@ -1,5 +1,3 @@
-import { Desktop } from '@wxcc-desktop/sdk';
-
 const template = document.createElement('template');
 
 // Roughly, 170 lines of Style. 50 lines of HTML.  145 lines of widget logic
