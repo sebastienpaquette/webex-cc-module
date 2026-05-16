@@ -449,8 +449,7 @@ class DesktopSDKSample extends HTMLElement {
         interactionId: interactionId,
         data: {
           attributes: {
-            accountId: '16910000',
-            PrimaryNumber: '2894420000',
+            Global_NumeroAdherent: '123456'
           },
         },
       });
